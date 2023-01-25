@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "973175c1-72a5-e733-232d-409c55a41695",
+    "Name": "OperaTheatre",
+    "ModifiedOnUtc": "\/Date(1674598705000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "3f299622-2079-4a62-ba18-6d32c1d0d6af",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise_Marketing_ServiceEnt"
+      }
+    ]
+  }
+}
