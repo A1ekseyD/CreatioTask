@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "a738afa9-5e5d-469c-b2af-277454968512",
+    "Name": "EduConcert",
+    "ModifiedOnUtc": "\/Date(1674681758000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Концертные программы"
+  }
+}

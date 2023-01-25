@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "4d584104-c5d2-48d3-a4b9-563f9907b34f",
+    "Name": "EduConcertInFolder",
+    "ModifiedOnUtc": "\/Date(1674681764000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Концертные программы в группе"
+  }
+}

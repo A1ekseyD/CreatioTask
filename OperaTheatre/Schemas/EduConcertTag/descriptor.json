@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "9041231b-280c-4173-9e57-e0e0fd3f4c8f",
+    "Name": "EduConcertTag",
+    "ModifiedOnUtc": "\/Date(1674681766000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Концертные программы"
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "493a4016-4f08-4bde-9e5a-b2b2f09cb712",
+    "Name": "EduConcert1Page",
+    "ModifiedOnUtc": "\/Date(1674681756000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Концертные программы\""
+  }
+}

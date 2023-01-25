@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "038675f9-ac61-486f-b664-8a3d7530af97",
+    "Name": "EduConcert7c40f953Section",
+    "ModifiedOnUtc": "\/Date(1674681753000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Концертные программы\""
+  }
+}

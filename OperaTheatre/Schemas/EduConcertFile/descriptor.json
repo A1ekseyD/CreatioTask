@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "cf1841eb-2899-4f29-9b06-f34ec9b1fde2",
+    "Name": "EduConcertFile",
+    "ModifiedOnUtc": "\/Date(1674681760000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Концертные программы"
+  }
+}
